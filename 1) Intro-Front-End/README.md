@@ -1,7 +1,7 @@
 1) Setup Developer Enviroment 
 
 https://www.google.com/chrome/
- ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+ ![picture alt](Google_Chrome_icon_(2011).png "Title is optional")
 https://www.sublimetext.com/3
  ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 

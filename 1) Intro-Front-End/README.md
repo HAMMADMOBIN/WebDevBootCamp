@@ -2,8 +2,10 @@
 
 https://www.google.com/chrome/
  <img src="Google_Chrome_icon_(2011).png" alt="alt text" width="100" height="100">
+ 
+ 
 https://www.sublimetext.com/3
- ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
+ <img src="Sublime_Text_3_logo.png" alt="alt text" width="100" height="100">
 
 
 

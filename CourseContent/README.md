@@ -1,7 +1,7 @@
 ![](giphy.gif)
 
 # Web Developer Bootcamp #
-Syllabus 
+## Syllabus ##
 
 1. Course Basics
 2. Introduction to Front End
